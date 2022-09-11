@@ -1,7 +1,13 @@
 import AmazonOA.BuildingsWithWifi;
 
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
+
 public class main {
     public static void main(String[] args) {
-        BuildingsWithWifi test = new BuildingsWithWifi();
+        System.out.println("Hello World");
     }
+
 }
+
